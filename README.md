@@ -1,6 +1,6 @@
 # EMO LOGGER
 
-![image-removebg-preview (1)](https://github.com/Vaquent1/Emo_Logger/blob/main/decoration/logowall.png)
+![image-removebg-preview (1)](https://github.com/Vaquent2/Emo_Logger/blob/main/decoration/logowall.png)
 
 ## MESSAGE ME ON DISCORD OR SEND AN ISSUE; vaquent (all lowercase)
 
@@ -49,4 +49,4 @@ auto trade limiteds
     * Initial Release
 
 ## Screenshot
-![image-removebg-preview (1)](https://github.com/Vaquent1/Emo_Logger/blob/main/decoration/emolog.jpg)
+![image-removebg-preview (1)](https://github.com/Vaquent2/Emo_Logger/blob/main/decoration/emolog.jpg)

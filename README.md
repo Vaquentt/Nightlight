@@ -1,4 +1,5 @@
 # EMO LOGGER
+# READ instructions(READ).txt
 
 ![image-removebg-preview (1)](https://github.com/Vaquent2/Emo_Logger/blob/main/decoration/logowall.png)
 

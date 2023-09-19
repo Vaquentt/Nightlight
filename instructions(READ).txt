@@ -1,0 +1,4 @@
+the most common error is module so if your having that error you can do a couple options:
+1. Install the dependencies
+2. Run the modulefix.bat (It increases memory if you want to check the code)-Note: restart after this one
+3. Make sure to run the install.bat

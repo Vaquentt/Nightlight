@@ -1,7 +1,7 @@
 # Nightlight
 # READ instructions(READ).txt
 
-![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textball.png)
+![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)
 
 ## MESSAGE ME ON DISCORD OR SEND AN ISSUE; vaquent (all lowercase)
 

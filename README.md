@@ -3,6 +3,13 @@
 
 ![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)
 
+ _   _ _       _     _   _ _       _     _   
+| \ | (_) __ _| |__ | |_| (_) __ _| |__ | |_ 
+|  \| | |/ _` | '_ \| __| | |/ _` | '_ \| __|
+| |\  | | (_| | | | | |_| | | (_| | | | | |_ 
+|_| \_|_|\__, |_| |_|\__|_|_|\__, |_| |_|\__|
+         |___/               |___/           
+
 ## CREATE AN ISSUE FORM IF SOMETHING IS WRONG
 
 An intuitive multi-purpose utility that can be used to get the victims cookies, tokens, and many other misc files on the users computer and network.

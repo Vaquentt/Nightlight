@@ -1,5 +1,5 @@
 # Nightlight
-# Head to Getting Started
+# Head to [Getting Started](https://github.com/Vaquent2/Nightlight?tab=readme-ov-file#getting-started)
 
 ![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/textwall.png)
 

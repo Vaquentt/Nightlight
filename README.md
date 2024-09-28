@@ -54,5 +54,5 @@ auto trade limiteds
 * 0.2
     * Nightlight
 
-## Screenshot
+## GUI
 ![image-removebg-preview (1)](https://github.com/Vaquent2/Nightlight/blob/main/decoration/nightlightgui.jpg)

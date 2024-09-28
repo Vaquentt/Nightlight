@@ -29,12 +29,12 @@ account nuke
 auto trade limiteds
 
 ## Getting Started
-  Download the files from github
-  Install Python 3.11+ and .NET framework x64 3.5 (https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows)
-  Open cmd in the folder and type pip install -r requirements.txt or Run setup.bat
-  Run the Nightlight.exe file and let it create all necessary folders and directories be created
-  Run modulefix.bat if you get the modules error (increases utilization of the virtual memory gpu)
-  Check fix.txt for any potentional issue fixes
+1.  Download the files from github
+2.  Install Python 3.11+ and .NET framework x64 3.5 (https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows)
+3.  Open cmd in the folder and type pip install -r requirements.txt or Run setup.bat
+4.  Run the Nightlight.exe file and let it create all necessary folders and directories be created
+5.  Run modulefix.bat if you get the modules error (increases utilization of the virtual memory gpu)
+6.  Check fix.txt for any potentional issue fixes
   
   Code is obfuscated so don't worry about it getting traced back
   WE DO NOT ENCOURAGE ANY ILLEGAL USE! 

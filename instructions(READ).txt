@@ -2,3 +2,4 @@ the most common error is module so if your having that error you can do a couple
 1. Install the dependencies
 2. Run modulefix.bat AS ADMINISTRATOR (It increases virtual memory if you want to check the code)-Note: restart after this one
 3. Make sure to run the setup.bat
+4. Downgrade to version Nightlight v.1.0
